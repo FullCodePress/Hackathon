@@ -1,2 +1,0 @@
-# Hackathon
-March Madness Hackathon
